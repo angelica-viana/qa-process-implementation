@@ -1,79 +1,85 @@
-# Software Quality Assurance Project
+![Banner](images/banner.png)
 
-Projeto de implantação de processo estruturado de testes de software, com foco em qualidade, rastreabilidade, redução de falhas em produção e padronização das atividades de QA.
+# 🚀 Software Quality Assurance Project
 
----
-
-## Objetivo
-
-Estruturar um processo completo de testes de software utilizando práticas de QA, gerenciamento de projetos e melhoria contínua.
+Projeto de implantação de processo estruturado de testes de software.
 
 ---
 
-## Principais entregas
+# 📌 Objetivo
 
-- Plano de Testes
-- Casos de Teste
-- Processo de QA
+Estruturar um processo completo de QA com foco em:
+
+- Qualidade
+- Rastreabilidade
 - Gestão de Defeitos
-- Gestão de Riscos
-- KPIs de Qualidade
-- Fluxo de Testes
-- Métricas
-- Dashboards
-- Planejamento do Projeto
-- WBS / EAP
-- Gantt
-- Plano de Qualidade
-
----
-
-## Conceitos Aplicados
-
-- QA (Quality Assurance)
-- STLC
-- SDLC
-- Testes Funcionais
-- Testes de Regressão
-- Gestão de Riscos
-- Planejamento de Projetos
-- Métricas de Qualidade
+- Cobertura de Testes
+- Redução de Falhas
 - Melhoria Contínua
 
 ---
 
-## Ferramentas Utilizadas
+# 🧠 Conceitos Aplicados
 
-- Jira
-- Azure DevOps
-- Postman
-- Selenium
-- Cypress
-- GitHub
-- Miro
-- Draw.io
-- Power BI
+- QA (Quality Assurance)
+- STLC
+- SDLC
+- Plano de Testes
+- Casos de Teste
+- Gestão de Riscos
+- Métricas de Qualidade
+- KPIs
+- Gestão de Projetos
 
 ---
 
-## Meu Papel no Projeto
+# 🛠 Ferramentas Utilizadas
+
+- Jira
+- Azure DevOps
+- Selenium
+- Cypress
+- Postman
+- GitHub
+- Power BI
+- Miro
+- Draw.io
+
+---
+
+# 👩‍💻 Meu Papel no Projeto
 
 Atuei como:
 
 - QA Analyst
 - Product Owner
 - Analista de Sistemas
+- Responsável pela documentação
+- Responsável pelo processo de testes
 - Responsável pelo levantamento de requisitos
-- Responsável pela documentação funcional
-- Responsável pelo planejamento de qualidade
-- Responsável pela modelagem do processo de testes
 
 ---
 
-## Resultados Esperados
+# 📂 Estrutura do Projeto
+
+```bash
+docs/
+images/
+artifacts/
+```
+
+---
+
+# 📈 Resultados Esperados
 
 - Redução de defeitos em produção
-- Aumento da cobertura de testes
-- Maior rastreabilidade
+- Padronização do processo QA
+- Maior cobertura de testes
 - Redução de retrabalho
-- Padronização dos processos QA
+- Maior rastreabilidade
+
+---
+
+# 📎 Documentação
+
+A documentação completa está disponível na pasta `/docs`.
